@@ -10,5 +10,6 @@ class Main
       System.out.println(s.indexOf("l",2));
       System.out.println(s.lastIndexOf("l"));
       System.out.println(s.contains("H"));
+      System.out.println(s.contains("a"));
   }
 }
